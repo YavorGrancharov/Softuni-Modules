@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Fix Emails\Fix Emails\bin\Debug\Fix Emails.exe.config
+C:\Users\Lalka\Documents\introC#\Fix Emails\Fix Emails\bin\Debug\Fix Emails.exe
+C:\Users\Lalka\Documents\introC#\Fix Emails\Fix Emails\bin\Debug\Fix Emails.pdb
+C:\Users\Lalka\Documents\introC#\Fix Emails\Fix Emails\obj\Debug\Fix Emails.exe
+C:\Users\Lalka\Documents\introC#\Fix Emails\Fix Emails\obj\Debug\Fix Emails.pdb

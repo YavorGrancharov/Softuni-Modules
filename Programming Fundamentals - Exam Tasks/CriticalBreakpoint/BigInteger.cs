@@ -1,0 +1,6 @@
+namespace CriticalBreakpoint
+{
+	class BigInteger
+	{
+	}
+}

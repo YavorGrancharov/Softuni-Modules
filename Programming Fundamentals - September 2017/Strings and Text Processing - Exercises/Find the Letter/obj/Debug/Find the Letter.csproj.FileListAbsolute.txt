@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\bin\Debug\Find the Letter.exe.config
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\bin\Debug\Find the Letter.exe
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\bin\Debug\Find the Letter.pdb
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\obj\Debug\Find the Letter.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\obj\Debug\Find the Letter.exe
+C:\Users\Lalka\Documents\introC#\Find the Letter\Find the Letter\obj\Debug\Find the Letter.pdb

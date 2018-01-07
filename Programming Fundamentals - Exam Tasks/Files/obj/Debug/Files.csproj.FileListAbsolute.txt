@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Files\Files\bin\Debug\Files.exe.config
+C:\Users\Lalka\Documents\introC#\Files\Files\bin\Debug\Files.exe
+C:\Users\Lalka\Documents\introC#\Files\Files\bin\Debug\Files.pdb
+C:\Users\Lalka\Documents\introC#\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Files\Files\obj\Debug\Files.exe
+C:\Users\Lalka\Documents\introC#\Files\Files\obj\Debug\Files.pdb

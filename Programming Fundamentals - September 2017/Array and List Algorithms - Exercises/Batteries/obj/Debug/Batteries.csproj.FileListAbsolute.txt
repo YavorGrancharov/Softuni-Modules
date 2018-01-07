@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\bin\Debug\Batteries.exe.config
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\bin\Debug\Batteries.exe
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\bin\Debug\Batteries.pdb
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\obj\Debug\Batteries.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\obj\Debug\Batteries.exe
+C:\Users\Lalka\Documents\introC#\Batteries\Batteries\obj\Debug\Batteries.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\bin\Debug\Flatten Dictionary.exe.config
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\bin\Debug\Flatten Dictionary.exe
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\bin\Debug\Flatten Dictionary.pdb
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\obj\Debug\Flatten Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\obj\Debug\Flatten Dictionary.exe
+C:\Users\Lalka\Documents\introC#\Flatten Dictionary\Flatten Dictionary\obj\Debug\Flatten Dictionary.pdb

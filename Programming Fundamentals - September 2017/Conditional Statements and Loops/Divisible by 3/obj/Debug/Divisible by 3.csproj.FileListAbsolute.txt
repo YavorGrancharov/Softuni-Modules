@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\bin\Debug\Divisible by 3.exe.config
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\bin\Debug\Divisible by 3.exe
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\bin\Debug\Divisible by 3.pdb
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\obj\Debug\Divisible by 3.exe
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\obj\Debug\Divisible by 3.pdb
+C:\Users\Lalka\Documents\introC#\Divisible by 3\Divisible by 3\obj\Debug\Divisible by 3.csprojResolveAssemblyReference.cache

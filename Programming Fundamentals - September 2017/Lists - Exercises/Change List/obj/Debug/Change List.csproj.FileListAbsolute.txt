@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Change List\Change List\bin\Debug\Change List.exe.config
+C:\Users\Lalka\Documents\introC#\Change List\Change List\bin\Debug\Change List.exe
+C:\Users\Lalka\Documents\introC#\Change List\Change List\bin\Debug\Change List.pdb
+C:\Users\Lalka\Documents\introC#\Change List\Change List\obj\Debug\Change List.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Change List\Change List\obj\Debug\Change List.exe
+C:\Users\Lalka\Documents\introC#\Change List\Change List\obj\Debug\Change List.pdb

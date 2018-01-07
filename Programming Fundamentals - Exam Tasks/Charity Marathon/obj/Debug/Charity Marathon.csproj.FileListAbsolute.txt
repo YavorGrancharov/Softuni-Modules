@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\bin\Debug\Charity Marathon.exe.config
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\bin\Debug\Charity Marathon.exe
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\bin\Debug\Charity Marathon.pdb
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\obj\Debug\Charity Marathon.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\obj\Debug\Charity Marathon.exe
+C:\Users\Lalka\Documents\introC#\Charity Marathon\Charity Marathon\obj\Debug\Charity Marathon.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\bin\Debug\Boxes.exe
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\bin\Debug\Boxes.pdb
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\obj\Debug\Boxes.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\obj\Debug\Boxes.exe
+C:\Users\Lalka\Documents\introC#\Boxes\Boxes\obj\Debug\Boxes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\bin\Debug\Entertrain.exe.config
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\bin\Debug\Entertrain.exe
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\bin\Debug\Entertrain.pdb
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\obj\Debug\Entertrain.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\obj\Debug\Entertrain.exe
+C:\Users\Lalka\Documents\introC#\Entertrain\Entertrain\obj\Debug\Entertrain.pdb

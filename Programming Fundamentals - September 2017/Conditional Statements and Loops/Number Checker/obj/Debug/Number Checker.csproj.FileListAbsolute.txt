@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\bin\Debug\Number Checker.exe.config
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\bin\Debug\Number Checker.exe
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\bin\Debug\Number Checker.pdb
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\obj\Debug\Number Checker.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\obj\Debug\Number Checker.exe
+C:\Users\Lalka\Documents\introC#\Number Checker\Number Checker\obj\Debug\Number Checker.pdb

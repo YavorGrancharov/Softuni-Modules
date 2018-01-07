@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe.config
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.pdb
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.exe
+C:\Users\Lalka\Documents\introC#\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.pdb

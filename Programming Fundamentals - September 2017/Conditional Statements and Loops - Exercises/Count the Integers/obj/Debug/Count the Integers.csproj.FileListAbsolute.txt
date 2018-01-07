@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\bin\Debug\Count the Integers.exe.config
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\bin\Debug\Count the Integers.exe
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\bin\Debug\Count the Integers.pdb
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\obj\Debug\Count the Integers.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\obj\Debug\Count the Integers.exe
+C:\Users\Lalka\Documents\introC#\Count the Integers\Count the Integers\obj\Debug\Count the Integers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe.config
+C:\Users\Lalka\Documents\introC#\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe
+C:\Users\Lalka\Documents\introC#\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.pdb
+C:\Users\Lalka\Documents\introC#\Integer to Hex and Binary\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.exe
+C:\Users\Lalka\Documents\introC#\Integer to Hex and Binary\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.pdb

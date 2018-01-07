@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\bin\Debug\String Repeater.exe.config
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\bin\Debug\String Repeater.exe
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\bin\Debug\String Repeater.pdb
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\obj\Debug\String Repeater.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\obj\Debug\String Repeater.exe
+C:\Users\Lalka\Documents\introC#\String Repeater\String Repeater\obj\Debug\String Repeater.pdb

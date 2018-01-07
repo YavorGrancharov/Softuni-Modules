@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\bin\Debug\Altitude.exe.config
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\bin\Debug\Altitude.exe
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\bin\Debug\Altitude.pdb
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\obj\Debug\Altitude.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\obj\Debug\Altitude.exe
+C:\Users\Lalka\Documents\introC#\Altitude\Altitude\obj\Debug\Altitude.pdb

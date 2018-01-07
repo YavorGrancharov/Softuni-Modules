@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\bin\Debug\DNA Sequences.exe.config
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\bin\Debug\DNA Sequences.exe
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\bin\Debug\DNA Sequences.pdb
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\obj\Debug\DNA Sequences.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\obj\Debug\DNA Sequences.exe
+C:\Users\Lalka\Documents\introC#\DNA Sequences\DNA Sequences\obj\Debug\DNA Sequences.pdb

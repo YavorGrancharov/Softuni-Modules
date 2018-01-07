@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.exe.config
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.exe
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.pdb
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.exe
+C:\Users\Lalka\Documents\introC#\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.pdb

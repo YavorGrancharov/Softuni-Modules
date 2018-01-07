@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.exe.config
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.exe
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.pdb
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\obj\Debug\Most Frequent Number.exe
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\obj\Debug\Most Frequent Number.pdb
+C:\Users\Lalka\Documents\introC#\Most Frequent Number\Most Frequent Number\obj\Debug\Most Frequent Number.csprojResolveAssemblyReference.cache

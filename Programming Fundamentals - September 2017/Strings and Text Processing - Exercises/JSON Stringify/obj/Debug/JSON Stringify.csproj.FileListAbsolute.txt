@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\bin\Debug\JSON Stringify.exe.config
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\bin\Debug\JSON Stringify.exe
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\bin\Debug\JSON Stringify.pdb
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\obj\Debug\JSON Stringify.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\obj\Debug\JSON Stringify.exe
+C:\Users\Lalka\Documents\introC#\JSON Stringify\JSON Stringify\obj\Debug\JSON Stringify.pdb

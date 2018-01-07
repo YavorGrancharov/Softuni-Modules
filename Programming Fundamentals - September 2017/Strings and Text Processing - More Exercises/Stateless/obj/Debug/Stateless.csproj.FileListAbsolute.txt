@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\bin\Debug\Stateless.exe.config
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\bin\Debug\Stateless.exe
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\bin\Debug\Stateless.pdb
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\obj\Debug\Stateless.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\obj\Debug\Stateless.exe
+C:\Users\Lalka\Documents\introC#\Stateless\Stateless\obj\Debug\Stateless.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\NSA\NSA\bin\Debug\NSA.exe.config
+C:\Users\Lalka\Documents\introC#\NSA\NSA\bin\Debug\NSA.exe
+C:\Users\Lalka\Documents\introC#\NSA\NSA\bin\Debug\NSA.pdb
+C:\Users\Lalka\Documents\introC#\NSA\NSA\obj\Debug\NSA.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\NSA\NSA\obj\Debug\NSA.exe
+C:\Users\Lalka\Documents\introC#\NSA\NSA\obj\Debug\NSA.pdb

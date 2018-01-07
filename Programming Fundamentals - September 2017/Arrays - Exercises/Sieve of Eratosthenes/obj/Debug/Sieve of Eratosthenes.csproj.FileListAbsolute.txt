@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
+C:\Users\Lalka\Documents\introC#\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb

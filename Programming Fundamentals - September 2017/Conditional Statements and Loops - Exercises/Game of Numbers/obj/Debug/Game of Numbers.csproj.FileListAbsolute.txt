@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\bin\Debug\Game of Numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\bin\Debug\Game of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\bin\Debug\Game of Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\obj\Debug\Game of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\obj\Debug\Game of Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Game of Numbers\Game of Numbers\obj\Debug\Game of Numbers.csprojResolveAssemblyReference.cache

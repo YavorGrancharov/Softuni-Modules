@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\bin\Debug\Shellbound.exe.config
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\bin\Debug\Shellbound.exe
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\bin\Debug\Shellbound.pdb
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\obj\Debug\Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\obj\Debug\Shellbound.exe
+C:\Users\Lalka\Documents\introC#\Shellbound\Shellbound\obj\Debug\Shellbound.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\bin\Debug\Track Downloader.exe.config
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\bin\Debug\Track Downloader.exe
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\bin\Debug\Track Downloader.pdb
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\obj\Debug\Track Downloader.exe
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\obj\Debug\Track Downloader.pdb
+C:\Users\Lalka\Documents\introC#\Track Downloader\Track Downloader\obj\Debug\Track Downloader.csprojResolveAssemblyReference.cache

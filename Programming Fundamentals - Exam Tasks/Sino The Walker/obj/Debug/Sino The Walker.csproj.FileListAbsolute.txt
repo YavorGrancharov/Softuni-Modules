@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\bin\Debug\Sino The Walker.exe.config
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\bin\Debug\Sino The Walker.exe
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\bin\Debug\Sino The Walker.pdb
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\obj\Debug\Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\obj\Debug\Sino The Walker.exe
+C:\Users\Lalka\Documents\introC#\Sino The Walker\Sino The Walker\obj\Debug\Sino The Walker.pdb

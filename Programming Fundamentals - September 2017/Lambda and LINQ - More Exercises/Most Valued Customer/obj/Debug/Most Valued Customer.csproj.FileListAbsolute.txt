@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\bin\Debug\Most Valued Customer.exe.config
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\bin\Debug\Most Valued Customer.exe
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\bin\Debug\Most Valued Customer.pdb
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\obj\Debug\Most Valued Customer.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\obj\Debug\Most Valued Customer.exe
+C:\Users\Lalka\Documents\introC#\Most Valued Customer\Most Valued Customer\obj\Debug\Most Valued Customer.pdb

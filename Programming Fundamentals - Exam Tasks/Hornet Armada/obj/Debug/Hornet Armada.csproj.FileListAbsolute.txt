@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\bin\Debug\Hornet Armada.exe.config
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\bin\Debug\Hornet Armada.exe
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\bin\Debug\Hornet Armada.pdb
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\obj\Debug\Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\obj\Debug\Hornet Armada.exe
+C:\Users\Lalka\Documents\introC#\Hornet Armada\Hornet Armada\obj\Debug\Hornet Armada.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\PhoenixGrid.exe
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\PhoenixGrid.pdb
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\mscorlib.dll
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\normidna.nlp
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\normnfc.nlp
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\normnfd.nlp
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\normnfkc.nlp
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\bin\Debug\normnfkd.nlp
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\obj\x86\Debug\PhoenixGrid.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\obj\x86\Debug\PhoenixGrid.exe
+C:\Users\Lalka\Documents\Projects\PhoenixGrid\PhoenixGrid\obj\x86\Debug\PhoenixGrid.pdb

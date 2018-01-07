@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\bin\Debug\Placeholders.exe.config
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\bin\Debug\Placeholders.exe
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\bin\Debug\Placeholders.pdb
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\obj\Debug\Placeholders.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\obj\Debug\Placeholders.exe
+C:\Users\Lalka\Documents\introC#\Placeholders\Placeholders\obj\Debug\Placeholders.pdb

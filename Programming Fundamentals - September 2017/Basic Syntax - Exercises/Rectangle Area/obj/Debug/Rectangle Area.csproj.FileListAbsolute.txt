@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+C:\Users\Lalka\Documents\introC#\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.exe
+C:\Users\Lalka\Documents\introC#\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.pdb
+C:\Users\Lalka\Documents\introC#\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.exe
+C:\Users\Lalka\Documents\introC#\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.exe.config
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.exe
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.pdb
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.exe
+C:\Users\Lalka\Documents\introC#\Convert from base-10 to base-N\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.pdb

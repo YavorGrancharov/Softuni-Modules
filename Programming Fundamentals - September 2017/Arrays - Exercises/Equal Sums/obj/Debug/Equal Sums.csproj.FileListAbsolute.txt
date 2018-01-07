@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\bin\Debug\Equal Sums.exe.config
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\bin\Debug\Equal Sums.exe
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\bin\Debug\Equal Sums.pdb
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\obj\Debug\Equal Sums.exe
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\obj\Debug\Equal Sums.pdb
+C:\Users\Lalka\Documents\introC#\Equal Sums\Equal Sums\obj\Debug\Equal Sums.csprojResolveAssemblyReference.cache

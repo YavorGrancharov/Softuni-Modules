@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\bin\Debug\Travel Company.exe.config
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\bin\Debug\Travel Company.exe
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\bin\Debug\Travel Company.pdb
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\obj\Debug\Travel Company.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\obj\Debug\Travel Company.exe
+C:\Users\Lalka\Documents\introC#\Travel Company\Travel Company\obj\Debug\Travel Company.pdb

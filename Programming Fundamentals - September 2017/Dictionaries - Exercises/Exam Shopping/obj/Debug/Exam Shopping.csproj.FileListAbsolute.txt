@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\bin\Debug\Exam Shopping.exe.config
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\bin\Debug\Exam Shopping.exe
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\bin\Debug\Exam Shopping.pdb
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\obj\Debug\Exam Shopping.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\obj\Debug\Exam Shopping.exe
+C:\Users\Lalka\Documents\introC#\Exam Shopping\Exam Shopping\obj\Debug\Exam Shopping.pdb

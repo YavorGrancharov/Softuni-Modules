@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Phone\Phone\bin\Debug\Phone.exe.config
+C:\Users\Lalka\Documents\introC#\Phone\Phone\bin\Debug\Phone.exe
+C:\Users\Lalka\Documents\introC#\Phone\Phone\bin\Debug\Phone.pdb
+C:\Users\Lalka\Documents\introC#\Phone\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Phone\Phone\obj\Debug\Phone.exe
+C:\Users\Lalka\Documents\introC#\Phone\Phone\obj\Debug\Phone.pdb

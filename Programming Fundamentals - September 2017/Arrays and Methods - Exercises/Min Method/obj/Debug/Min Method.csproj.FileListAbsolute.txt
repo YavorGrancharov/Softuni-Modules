@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\bin\Debug\Min Method.exe.config
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\bin\Debug\Min Method.exe
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\bin\Debug\Min Method.pdb
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\obj\Debug\Min Method.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\obj\Debug\Min Method.exe
+C:\Users\Lalka\Documents\introC#\Min Method\Min Method\obj\Debug\Min Method.pdb

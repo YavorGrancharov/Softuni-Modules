@@ -1,0 +1,6 @@
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\bin\Debug\_03.Football_League.exe.config
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\bin\Debug\_03.Football_League.exe
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\bin\Debug\_03.Football_League.pdb
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\obj\Debug\_03.Football_League.exe
+c:\users\lalka\Documents\introC#\03. Football League\03. Football League\obj\Debug\_03.Football_League.pdb

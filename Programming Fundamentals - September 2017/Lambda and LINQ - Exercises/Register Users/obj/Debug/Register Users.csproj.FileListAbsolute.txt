@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\bin\Debug\Register Users.exe.config
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\bin\Debug\Register Users.exe
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\bin\Debug\Register Users.pdb
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\obj\Debug\Register Users.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\obj\Debug\Register Users.exe
+C:\Users\Lalka\Documents\introC#\Register Users\Register Users\obj\Debug\Register Users.pdb

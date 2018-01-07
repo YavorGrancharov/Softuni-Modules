@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\bin\Debug\Increasing Crisis.exe.config
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\bin\Debug\Increasing Crisis.exe
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\bin\Debug\Increasing Crisis.pdb
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\obj\Debug\Increasing Crisis.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\obj\Debug\Increasing Crisis.exe
+C:\Users\Lalka\Documents\introC#\Increasing Crisis\Increasing Crisis\obj\Debug\Increasing Crisis.pdb

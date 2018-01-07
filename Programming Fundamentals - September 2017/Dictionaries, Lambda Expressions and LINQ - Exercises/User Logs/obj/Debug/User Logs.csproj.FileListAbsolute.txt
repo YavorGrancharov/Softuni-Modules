@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\bin\Debug\User Logs.exe.config
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\bin\Debug\User Logs.exe
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\bin\Debug\User Logs.pdb
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\obj\Debug\User Logs.exe
+C:\Users\Lalka\Documents\introC#\User Logs\User Logs\obj\Debug\User Logs.pdb

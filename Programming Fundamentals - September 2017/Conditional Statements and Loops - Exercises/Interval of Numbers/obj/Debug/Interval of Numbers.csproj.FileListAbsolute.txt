@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Interval of Numbers\Interval of Numbers\bin\Debug\Interval of Numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Interval of Numbers\Interval of Numbers\bin\Debug\Interval of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Interval of Numbers\Interval of Numbers\bin\Debug\Interval of Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Interval of Numbers\Interval of Numbers\obj\Debug\Interval of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Interval of Numbers\Interval of Numbers\obj\Debug\Interval of Numbers.pdb

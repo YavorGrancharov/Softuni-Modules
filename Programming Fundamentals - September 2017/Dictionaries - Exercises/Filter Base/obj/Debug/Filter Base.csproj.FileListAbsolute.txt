@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\bin\Debug\Filter Base.exe.config
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\bin\Debug\Filter Base.exe
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\bin\Debug\Filter Base.pdb
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\obj\Debug\Filter Base.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\obj\Debug\Filter Base.exe
+C:\Users\Lalka\Documents\introC#\Filter Base\Filter Base\obj\Debug\Filter Base.pdb

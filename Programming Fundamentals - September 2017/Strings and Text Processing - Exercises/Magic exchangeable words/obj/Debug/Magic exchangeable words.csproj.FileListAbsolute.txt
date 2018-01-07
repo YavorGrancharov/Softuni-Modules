@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe.config
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.pdb
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\obj\Debug\Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\obj\Debug\Magic exchangeable words.exe
+C:\Users\Lalka\Documents\introC#\Magic exchangeable words\Magic exchangeable words\obj\Debug\Magic exchangeable words.pdb

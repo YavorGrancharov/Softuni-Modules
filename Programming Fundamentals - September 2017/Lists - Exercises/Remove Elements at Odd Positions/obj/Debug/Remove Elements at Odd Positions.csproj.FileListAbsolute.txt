@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.exe.config
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.exe
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\bin\Debug\Remove Elements at Odd Positions.pdb
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.exe
+C:\Users\Lalka\Documents\introC#\Remove Elements at Odd Positions\Remove Elements at Odd Positions\obj\Debug\Remove Elements at Odd Positions.pdb

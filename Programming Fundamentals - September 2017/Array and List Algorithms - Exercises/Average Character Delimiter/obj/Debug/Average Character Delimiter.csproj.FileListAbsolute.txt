@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\bin\Debug\Average Character Delimiter.exe.config
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\bin\Debug\Average Character Delimiter.exe
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\bin\Debug\Average Character Delimiter.pdb
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\obj\Debug\Average Character Delimiter.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\obj\Debug\Average Character Delimiter.exe
+C:\Users\Lalka\Documents\introC#\Average Character Delimiter\Average Character Delimiter\obj\Debug\Average Character Delimiter.pdb

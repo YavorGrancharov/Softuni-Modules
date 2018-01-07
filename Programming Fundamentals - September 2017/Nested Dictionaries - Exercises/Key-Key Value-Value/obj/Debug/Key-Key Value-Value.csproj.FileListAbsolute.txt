@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.exe.config
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.exe
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\bin\Debug\Key-Key Value-Value.pdb
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\obj\Debug\Key-Key Value-Value.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\obj\Debug\Key-Key Value-Value.exe
+C:\Users\Lalka\Documents\introC#\Key-Key Value-Value\Key-Key Value-Value\obj\Debug\Key-Key Value-Value.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\bin\Debug\Mirror Image.exe.config
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\bin\Debug\Mirror Image.exe
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\bin\Debug\Mirror Image.pdb
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\obj\Debug\Mirror Image.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\obj\Debug\Mirror Image.exe
+C:\Users\Lalka\Documents\introC#\Mirror Image\Mirror Image\obj\Debug\Mirror Image.pdb

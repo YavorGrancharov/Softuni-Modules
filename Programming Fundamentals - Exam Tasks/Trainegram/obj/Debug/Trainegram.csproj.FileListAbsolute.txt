@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\bin\Debug\Trainegram.exe.config
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\bin\Debug\Trainegram.exe
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\bin\Debug\Trainegram.pdb
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\obj\Debug\Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\obj\Debug\Trainegram.exe
+C:\Users\Lalka\Documents\introC#\Trainegram\Trainegram\obj\Debug\Trainegram.pdb

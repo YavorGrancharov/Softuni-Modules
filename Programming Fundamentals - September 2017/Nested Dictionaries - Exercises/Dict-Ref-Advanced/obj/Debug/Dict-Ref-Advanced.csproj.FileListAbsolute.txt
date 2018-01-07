@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe.config
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.pdb
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.exe
+C:\Users\Lalka\Documents\introC#\Dict-Ref-Advanced\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.pdb

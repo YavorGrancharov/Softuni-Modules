@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\bin\Debug\Worms World Party.exe.config
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\bin\Debug\Worms World Party.exe
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\bin\Debug\Worms World Party.pdb
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\obj\Debug\Worms World Party.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\obj\Debug\Worms World Party.exe
+C:\Users\Lalka\Documents\introC#\Worms World Party\Worms World Party\obj\Debug\Worms World Party.pdb

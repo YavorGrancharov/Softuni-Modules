@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\bin\Debug\Integer to Base.exe.config
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\bin\Debug\Integer to Base.exe
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\bin\Debug\Integer to Base.pdb
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\obj\Debug\Integer to Base.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\obj\Debug\Integer to Base.exe
+C:\Users\Lalka\Documents\introC#\Integer to Base\Integer to Base\obj\Debug\Integer to Base.pdb

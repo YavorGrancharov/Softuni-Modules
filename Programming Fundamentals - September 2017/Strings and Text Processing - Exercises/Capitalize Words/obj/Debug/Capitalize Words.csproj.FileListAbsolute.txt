@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\bin\Debug\Capitalize Words.exe.config
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\obj\Debug\Capitalize Words.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\bin\Debug\Capitalize Words.exe
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\bin\Debug\Capitalize Words.pdb
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\obj\Debug\Capitalize Words.exe
+C:\Users\Lalka\Documents\introC#\Capitalize Words\Capitalize Words\obj\Debug\Capitalize Words.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\bin\Debug\Decode Radio Frequencies.exe.config
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\bin\Debug\Decode Radio Frequencies.exe
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\bin\Debug\Decode Radio Frequencies.pdb
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\obj\Debug\Decode Radio Frequencies.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\obj\Debug\Decode Radio Frequencies.exe
+C:\Users\Lalka\Documents\introC#\Decode Radio Frequencies\Decode Radio Frequencies\obj\Debug\Decode Radio Frequencies.pdb

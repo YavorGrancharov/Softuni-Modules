@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\bin\Debug\Social Media Posts.exe.config
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\bin\Debug\Social Media Posts.exe
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\bin\Debug\Social Media Posts.pdb
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\obj\Debug\Social Media Posts.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\obj\Debug\Social Media Posts.exe
+C:\Users\Lalka\Documents\introC#\Social Media Posts\Social Media Posts\obj\Debug\Social Media Posts.pdb

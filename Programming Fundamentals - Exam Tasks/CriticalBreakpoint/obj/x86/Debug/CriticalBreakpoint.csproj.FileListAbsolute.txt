@@ -1,0 +1,11 @@
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\CriticalBreakpoint.exe
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\CriticalBreakpoint.pdb
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\mscorlib.dll
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\normidna.nlp
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\normnfc.nlp
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\normnfd.nlp
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\normnfkc.nlp
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\bin\Debug\normnfkd.nlp
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\obj\x86\Debug\CriticalBreakpoint.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\obj\x86\Debug\CriticalBreakpoint.exe
+C:\Users\Lalka\Documents\Projects\CriticalBreakpoint\CriticalBreakpoint\obj\x86\Debug\CriticalBreakpoint.pdb

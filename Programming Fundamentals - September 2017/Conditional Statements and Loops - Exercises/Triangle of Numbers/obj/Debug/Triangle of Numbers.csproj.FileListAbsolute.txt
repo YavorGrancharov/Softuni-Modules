@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\bin\Debug\Triangle of Numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\bin\Debug\Triangle of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\bin\Debug\Triangle of Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\obj\Debug\Triangle of Numbers.exe
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\obj\Debug\Triangle of Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Triangle of Numbers\Triangle of Numbers\obj\Debug\Triangle of Numbers.csprojResolveAssemblyReference.cache

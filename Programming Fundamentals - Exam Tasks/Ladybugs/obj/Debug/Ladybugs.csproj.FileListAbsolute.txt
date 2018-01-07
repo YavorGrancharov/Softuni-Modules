@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\bin\Debug\Ladybugs.exe.config
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\bin\Debug\Ladybugs.exe
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\bin\Debug\Ladybugs.pdb
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\obj\Debug\Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\obj\Debug\Ladybugs.exe
+C:\Users\Lalka\Documents\introC#\Ladybugs\Ladybugs\obj\Debug\Ladybugs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\bin\Debug\String Encryption.exe.config
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\bin\Debug\String Encryption.exe
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\bin\Debug\String Encryption.pdb
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\obj\Debug\String Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\obj\Debug\String Encryption.exe
+C:\Users\Lalka\Documents\introC#\String Encryption\String Encryption\obj\Debug\String Encryption.pdb

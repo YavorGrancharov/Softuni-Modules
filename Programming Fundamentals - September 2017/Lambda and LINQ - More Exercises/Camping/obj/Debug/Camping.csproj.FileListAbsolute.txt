@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Camping\Camping\bin\Debug\Camping.exe.config
+C:\Users\Lalka\Documents\introC#\Camping\Camping\bin\Debug\Camping.exe
+C:\Users\Lalka\Documents\introC#\Camping\Camping\bin\Debug\Camping.pdb
+C:\Users\Lalka\Documents\introC#\Camping\Camping\obj\Debug\Camping.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Camping\Camping\obj\Debug\Camping.exe
+C:\Users\Lalka\Documents\introC#\Camping\Camping\obj\Debug\Camping.pdb

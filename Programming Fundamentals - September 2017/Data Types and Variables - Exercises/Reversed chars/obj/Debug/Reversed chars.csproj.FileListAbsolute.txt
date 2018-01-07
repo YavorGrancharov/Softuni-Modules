@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\bin\Debug\Reversed chars.exe.config
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\bin\Debug\Reversed chars.exe
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\bin\Debug\Reversed chars.pdb
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\obj\Debug\Reversed chars.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\obj\Debug\Reversed chars.exe
+C:\Users\Lalka\Documents\introC#\Reversed chars\Reversed chars\obj\Debug\Reversed chars.pdb

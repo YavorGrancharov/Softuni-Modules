@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\bin\Debug\Largest Common End.exe.config
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\bin\Debug\Largest Common End.exe
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\bin\Debug\Largest Common End.pdb
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\obj\Debug\Largest Common End.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\obj\Debug\Largest Common End.exe
+C:\Users\Lalka\Documents\introC#\Largest Common End\Largest Common End\obj\Debug\Largest Common End.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\bin\Debug\Shoot List Elements.exe.config
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\bin\Debug\Shoot List Elements.exe
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\bin\Debug\Shoot List Elements.pdb
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\obj\Debug\Shoot List Elements.exe
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\obj\Debug\Shoot List Elements.pdb
+C:\Users\Lalka\Documents\introC#\Shoot List Elements\Shoot List Elements\obj\Debug\Shoot List Elements.csprojResolveAssemblyReference.cache

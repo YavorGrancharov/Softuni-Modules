@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.pdb

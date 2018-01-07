@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\bin\Debug\Tear List in Half.exe.config
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\bin\Debug\Tear List in Half.exe
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\bin\Debug\Tear List in Half.pdb
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\obj\Debug\Tear List in Half.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\obj\Debug\Tear List in Half.exe
+C:\Users\Lalka\Documents\introC#\Tear List in Half\Tear List in Half\obj\Debug\Tear List in Half.pdb

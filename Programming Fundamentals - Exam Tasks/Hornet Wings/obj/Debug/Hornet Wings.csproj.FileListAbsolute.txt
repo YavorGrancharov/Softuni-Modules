@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\bin\Debug\Hornet Wings.exe.config
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\bin\Debug\Hornet Wings.exe
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\bin\Debug\Hornet Wings.pdb
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\obj\Debug\Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\obj\Debug\Hornet Wings.exe
+C:\Users\Lalka\Documents\introC#\Hornet Wings\Hornet Wings\obj\Debug\Hornet Wings.pdb

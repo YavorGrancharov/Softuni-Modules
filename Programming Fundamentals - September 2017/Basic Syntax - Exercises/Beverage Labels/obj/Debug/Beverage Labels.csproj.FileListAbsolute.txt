@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\obj\Debug\Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\Lalka\Documents\introC#\Beverage Labels\Beverage Labels\obj\Debug\Beverage Labels.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.exe.config
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.exe
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\bin\Debug\Last 3 Consecutive Equal Strings.pdb
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.exe
+C:\Users\Lalka\Documents\introC#\Last 3 Consecutive Equal Strings\Last 3 Consecutive Equal Strings\obj\Debug\Last 3 Consecutive Equal Strings.pdb

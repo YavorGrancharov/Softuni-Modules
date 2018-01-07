@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\bin\Debug\Hornet Assault.exe.config
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\bin\Debug\Hornet Assault.exe
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\bin\Debug\Hornet Assault.pdb
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\obj\Debug\Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\obj\Debug\Hornet Assault.exe
+C:\Users\Lalka\Documents\introC#\Hornet Assault\Hornet Assault\obj\Debug\Hornet Assault.pdb

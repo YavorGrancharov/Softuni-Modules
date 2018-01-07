@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Choose a Drink\Choose a Drink\bin\Debug\Choose a Drink.exe.config
+C:\Users\Lalka\Documents\introC#\Choose a Drink\Choose a Drink\bin\Debug\Choose a Drink.exe
+C:\Users\Lalka\Documents\introC#\Choose a Drink\Choose a Drink\bin\Debug\Choose a Drink.pdb
+C:\Users\Lalka\Documents\introC#\Choose a Drink\Choose a Drink\obj\Debug\Choose a Drink.exe
+C:\Users\Lalka\Documents\introC#\Choose a Drink\Choose a Drink\obj\Debug\Choose a Drink.pdb

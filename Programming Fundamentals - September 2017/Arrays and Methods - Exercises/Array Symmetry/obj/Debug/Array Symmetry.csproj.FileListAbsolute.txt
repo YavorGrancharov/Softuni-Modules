@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\bin\Debug\Array Symmetry.exe.config
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\bin\Debug\Array Symmetry.exe
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\bin\Debug\Array Symmetry.pdb
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\obj\Debug\Array Symmetry.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\obj\Debug\Array Symmetry.exe
+C:\Users\Lalka\Documents\introC#\Array Symmetry\Array Symmetry\obj\Debug\Array Symmetry.pdb

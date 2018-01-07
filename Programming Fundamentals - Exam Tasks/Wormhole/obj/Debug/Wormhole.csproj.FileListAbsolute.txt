@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\bin\Debug\Wormhole.exe.config
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\bin\Debug\Wormhole.exe
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\bin\Debug\Wormhole.pdb
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\obj\Debug\Wormhole.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\obj\Debug\Wormhole.exe
+C:\Users\Lalka\Documents\introC#\Wormhole\Wormhole\obj\Debug\Wormhole.pdb

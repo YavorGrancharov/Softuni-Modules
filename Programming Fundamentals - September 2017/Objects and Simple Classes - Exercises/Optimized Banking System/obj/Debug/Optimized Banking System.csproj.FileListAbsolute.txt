@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\bin\Debug\Optimized Banking System.exe.config
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\bin\Debug\Optimized Banking System.exe
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\bin\Debug\Optimized Banking System.pdb
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\obj\Debug\Optimized Banking System.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\obj\Debug\Optimized Banking System.exe
+C:\Users\Lalka\Documents\introC#\Optimized Banking System\Optimized Banking System\obj\Debug\Optimized Banking System.pdb

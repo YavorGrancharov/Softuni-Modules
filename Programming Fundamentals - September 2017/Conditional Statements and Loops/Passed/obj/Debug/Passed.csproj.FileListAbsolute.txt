@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Passed\Passed\bin\Debug\Passed.exe.config
+C:\Users\Lalka\Documents\introC#\Passed\Passed\bin\Debug\Passed.exe
+C:\Users\Lalka\Documents\introC#\Passed\Passed\bin\Debug\Passed.pdb
+C:\Users\Lalka\Documents\introC#\Passed\Passed\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Passed\Passed\obj\Debug\Passed.exe
+C:\Users\Lalka\Documents\introC#\Passed\Passed\obj\Debug\Passed.pdb

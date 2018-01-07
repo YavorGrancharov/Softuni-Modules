@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\Lalka\Documents\introC#\Exercises\Exercises\obj\Debug\Exercises.pdb

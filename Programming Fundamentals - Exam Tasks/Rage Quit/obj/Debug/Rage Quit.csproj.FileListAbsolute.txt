@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\bin\Debug\Rage Quit.exe.config
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\bin\Debug\Rage Quit.exe
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\bin\Debug\Rage Quit.pdb
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\obj\Debug\Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\obj\Debug\Rage Quit.exe
+C:\Users\Lalka\Documents\introC#\Rage Quit\Rage Quit\obj\Debug\Rage Quit.pdb

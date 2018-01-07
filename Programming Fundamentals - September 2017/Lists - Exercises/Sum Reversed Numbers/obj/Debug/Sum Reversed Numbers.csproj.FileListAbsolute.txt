@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\Lalka\Documents\introC#\Sum Reversed Numbers\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum Reversed Numbers\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

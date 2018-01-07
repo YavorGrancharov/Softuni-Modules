@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\A Miner Task\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\Lalka\Documents\introC#\A Miner Task\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\Lalka\Documents\introC#\A Miner Task\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\Lalka\Documents\introC#\A Miner Task\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\Lalka\Documents\introC#\A Miner Task\A Miner Task\obj\Debug\A Miner Task.pdb

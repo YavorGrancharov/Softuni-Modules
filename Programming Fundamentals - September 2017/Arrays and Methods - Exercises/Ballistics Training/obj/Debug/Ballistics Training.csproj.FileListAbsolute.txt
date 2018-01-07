@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Ballistics Training\Ballistics Training\bin\Debug\Ballistics Training.exe.config
+C:\Users\Lalka\Documents\introC#\Ballistics Training\Ballistics Training\bin\Debug\Ballistics Training.exe
+C:\Users\Lalka\Documents\introC#\Ballistics Training\Ballistics Training\bin\Debug\Ballistics Training.pdb
+C:\Users\Lalka\Documents\introC#\Ballistics Training\Ballistics Training\obj\Debug\Ballistics Training.exe
+C:\Users\Lalka\Documents\introC#\Ballistics Training\Ballistics Training\obj\Debug\Ballistics Training.pdb

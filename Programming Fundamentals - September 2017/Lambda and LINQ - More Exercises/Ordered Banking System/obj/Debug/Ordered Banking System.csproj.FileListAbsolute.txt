@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\bin\Debug\Ordered Banking System.exe.config
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\bin\Debug\Ordered Banking System.exe
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\bin\Debug\Ordered Banking System.pdb
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\obj\Debug\Ordered Banking System.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\obj\Debug\Ordered Banking System.exe
+C:\Users\Lalka\Documents\introC#\Ordered Banking System\Ordered Banking System\obj\Debug\Ordered Banking System.pdb

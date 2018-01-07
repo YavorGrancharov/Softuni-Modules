@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\bin\Debug\Ununion Lists.exe.config
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\bin\Debug\Ununion Lists.exe
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\bin\Debug\Ununion Lists.pdb
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\obj\Debug\Ununion Lists.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\obj\Debug\Ununion Lists.exe
+C:\Users\Lalka\Documents\introC#\Ununion Lists\Ununion Lists\obj\Debug\Ununion Lists.pdb

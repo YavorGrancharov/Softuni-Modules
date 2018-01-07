@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\bin\Debug\Camel's Back.exe.config
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\bin\Debug\Camel's Back.exe
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\bin\Debug\Camel's Back.pdb
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\obj\Debug\Camel's Back.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\obj\Debug\Camel's Back.exe
+C:\Users\Lalka\Documents\introC#\Camel's Back\Camel's Back\obj\Debug\Camel's Back.pdb

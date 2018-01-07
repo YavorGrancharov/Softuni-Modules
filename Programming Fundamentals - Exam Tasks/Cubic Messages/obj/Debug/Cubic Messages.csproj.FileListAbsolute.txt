@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\bin\Debug\Cubic Messages.exe.config
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\bin\Debug\Cubic Messages.exe
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\bin\Debug\Cubic Messages.pdb
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\obj\Debug\Cubic Messages.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\obj\Debug\Cubic Messages.exe
+C:\Users\Lalka\Documents\introC#\Cubic Messages\Cubic Messages\obj\Debug\Cubic Messages.pdb

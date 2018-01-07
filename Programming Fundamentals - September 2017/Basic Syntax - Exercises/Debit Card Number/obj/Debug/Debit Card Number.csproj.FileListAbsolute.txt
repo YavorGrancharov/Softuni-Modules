@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.exe
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.pdb
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.exe
+C:\Users\Lalka\Documents\introC#\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\bin\Debug\Sort Array of Strings.exe.config
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\bin\Debug\Sort Array of Strings.exe
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\bin\Debug\Sort Array of Strings.pdb
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\obj\Debug\Sort Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\obj\Debug\Sort Array of Strings.exe
+C:\Users\Lalka\Documents\introC#\Sort Array of Strings\Sort Array of Strings\obj\Debug\Sort Array of Strings.pdb

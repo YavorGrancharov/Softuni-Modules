@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\bin\Debug\Sum big numbers.exe.config
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\bin\Debug\Sum big numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\bin\Debug\Sum big numbers.pdb
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\obj\Debug\Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\obj\Debug\Sum big numbers.exe
+C:\Users\Lalka\Documents\introC#\Sum big numbers\Sum big numbers\obj\Debug\Sum big numbers.pdb

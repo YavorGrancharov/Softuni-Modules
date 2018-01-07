@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe.config
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.pdb
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.exe
+C:\Users\Lalka\Documents\introC#\Compare Char Arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.pdb

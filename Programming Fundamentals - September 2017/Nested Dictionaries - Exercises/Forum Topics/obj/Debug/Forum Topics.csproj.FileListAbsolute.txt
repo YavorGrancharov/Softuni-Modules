@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\bin\Debug\Forum Topics.exe.config
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\bin\Debug\Forum Topics.exe
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\bin\Debug\Forum Topics.pdb
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\obj\Debug\Forum Topics.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\obj\Debug\Forum Topics.exe
+C:\Users\Lalka\Documents\introC#\Forum Topics\Forum Topics\obj\Debug\Forum Topics.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\obj\Debug\Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+C:\Users\Lalka\Documents\introC#\Neighbour Wars\Neighbour Wars\obj\Debug\Neighbour Wars.pdb

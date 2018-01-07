@@ -1,0 +1,11 @@
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\RainAir.exe
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\RainAir.pdb
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\mscorlib.dll
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\normidna.nlp
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\normnfc.nlp
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\normnfd.nlp
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\normnfkc.nlp
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\bin\Debug\normnfkd.nlp
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\obj\x86\Debug\RainAir.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\obj\x86\Debug\RainAir.exe
+C:\Users\Lalka\Documents\Projects\RainAir\RainAir\obj\x86\Debug\RainAir.pdb

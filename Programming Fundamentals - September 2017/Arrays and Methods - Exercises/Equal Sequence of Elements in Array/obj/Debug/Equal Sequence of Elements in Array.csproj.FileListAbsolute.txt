@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Equal Sequence of Elements in Array\Equal Sequence of Elements in Array\bin\Debug\Equal Sequence of Elements in Array.exe.config
+C:\Users\Lalka\Documents\introC#\Equal Sequence of Elements in Array\Equal Sequence of Elements in Array\bin\Debug\Equal Sequence of Elements in Array.exe
+C:\Users\Lalka\Documents\introC#\Equal Sequence of Elements in Array\Equal Sequence of Elements in Array\bin\Debug\Equal Sequence of Elements in Array.pdb
+C:\Users\Lalka\Documents\introC#\Equal Sequence of Elements in Array\Equal Sequence of Elements in Array\obj\Debug\Equal Sequence of Elements in Array.exe
+C:\Users\Lalka\Documents\introC#\Equal Sequence of Elements in Array\Equal Sequence of Elements in Array\obj\Debug\Equal Sequence of Elements in Array.pdb

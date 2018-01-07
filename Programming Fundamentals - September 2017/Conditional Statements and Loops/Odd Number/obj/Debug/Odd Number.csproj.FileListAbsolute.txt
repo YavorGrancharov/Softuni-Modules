@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\bin\Debug\Odd Number.exe.config
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\bin\Debug\Odd Number.exe
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\bin\Debug\Odd Number.pdb
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\obj\Debug\Odd Number.exe
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\obj\Debug\Odd Number.pdb
+C:\Users\Lalka\Documents\introC#\Odd Number\Odd Number\obj\Debug\Odd Number.csprojResolveAssemblyReference.cache

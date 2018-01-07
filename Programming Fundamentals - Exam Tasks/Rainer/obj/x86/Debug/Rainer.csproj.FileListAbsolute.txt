@@ -1,0 +1,11 @@
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\Rainer.exe
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\Rainer.pdb
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\mscorlib.dll
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\normidna.nlp
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\normnfc.nlp
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\normnfd.nlp
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\normnfkc.nlp
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\bin\Debug\normnfkd.nlp
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\obj\x86\Debug\Rainer.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\obj\x86\Debug\Rainer.exe
+C:\Users\Lalka\Documents\Projects\Rainer\Rainer\obj\x86\Debug\Rainer.pdb

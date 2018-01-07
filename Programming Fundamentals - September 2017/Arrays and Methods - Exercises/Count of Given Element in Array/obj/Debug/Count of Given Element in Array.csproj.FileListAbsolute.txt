@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe.config
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.pdb
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.exe
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.pdb
+C:\Users\Lalka\Documents\introC#\Count of Given Element in Array\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\bin\Debug\Nth Digit.exe.config
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\bin\Debug\Nth Digit.exe
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\bin\Debug\Nth Digit.pdb
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\obj\Debug\Nth Digit.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\obj\Debug\Nth Digit.exe
+C:\Users\Lalka\Documents\introC#\Nth Digit\Nth Digit\obj\Debug\Nth Digit.pdb

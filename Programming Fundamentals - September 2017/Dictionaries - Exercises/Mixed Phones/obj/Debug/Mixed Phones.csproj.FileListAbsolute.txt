@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\bin\Debug\Mixed Phones.exe.config
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\bin\Debug\Mixed Phones.exe
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\bin\Debug\Mixed Phones.pdb
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\obj\Debug\Mixed Phones.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\obj\Debug\Mixed Phones.exe
+C:\Users\Lalka\Documents\introC#\Mixed Phones\Mixed Phones\obj\Debug\Mixed Phones.pdb

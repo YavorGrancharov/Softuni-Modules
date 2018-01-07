@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\bin\Debug\Integer Insertion.exe.config
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\bin\Debug\Integer Insertion.exe
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\bin\Debug\Integer Insertion.pdb
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\obj\Debug\Integer Insertion.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\obj\Debug\Integer Insertion.exe
+C:\Users\Lalka\Documents\introC#\Integer Insertion\Integer Insertion\obj\Debug\Integer Insertion.pdb

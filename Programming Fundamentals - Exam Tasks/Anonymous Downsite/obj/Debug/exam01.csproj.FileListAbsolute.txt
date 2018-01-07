@@ -1,0 +1,6 @@
+c:\users\lalka\Documents\introC#\exam01\exam01\bin\Debug\exam01.exe.config
+c:\users\lalka\Documents\introC#\exam01\exam01\bin\Debug\exam01.exe
+c:\users\lalka\Documents\introC#\exam01\exam01\bin\Debug\exam01.pdb
+c:\users\lalka\Documents\introC#\exam01\exam01\obj\Debug\exam01.csprojResolveAssemblyReference.cache
+c:\users\lalka\Documents\introC#\exam01\exam01\obj\Debug\exam01.exe
+c:\users\lalka\Documents\introC#\exam01\exam01\obj\Debug\exam01.pdb

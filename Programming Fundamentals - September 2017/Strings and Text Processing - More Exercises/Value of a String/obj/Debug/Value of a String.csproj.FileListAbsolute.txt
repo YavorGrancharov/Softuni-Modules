@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\bin\Debug\Value of a String.exe.config
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\bin\Debug\Value of a String.exe
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\bin\Debug\Value of a String.pdb
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\obj\Debug\Value of a String.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\obj\Debug\Value of a String.exe
+C:\Users\Lalka\Documents\introC#\Value of a String\Value of a String\obj\Debug\Value of a String.pdb

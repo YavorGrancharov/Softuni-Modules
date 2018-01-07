@@ -1,0 +1,6 @@
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.exe.config
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.exe
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.pdb
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.csprojResolveAssemblyReference.cache
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.exe
+c:\users\lalka\Documents\introC#\Softuni Coffee Orders\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.pdb

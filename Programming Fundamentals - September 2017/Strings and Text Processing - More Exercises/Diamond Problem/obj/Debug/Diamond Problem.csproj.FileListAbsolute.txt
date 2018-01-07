@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\bin\Debug\Diamond Problem.exe.config
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\bin\Debug\Diamond Problem.exe
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\bin\Debug\Diamond Problem.pdb
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\obj\Debug\Diamond Problem.exe
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\obj\Debug\Diamond Problem.pdb
+C:\Users\Lalka\Documents\introC#\Diamond Problem\Diamond Problem\obj\Debug\Diamond Problem.csprojResolveAssemblyReference.cache

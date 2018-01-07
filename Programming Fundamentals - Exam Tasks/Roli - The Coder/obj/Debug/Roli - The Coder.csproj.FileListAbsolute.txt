@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\bin\Debug\Roli - The Coder.exe.config
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\bin\Debug\Roli - The Coder.exe
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\bin\Debug\Roli - The Coder.pdb
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\obj\Debug\Roli - The Coder.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\obj\Debug\Roli - The Coder.exe
+C:\Users\Lalka\Documents\introC#\Roli - The Coder\Roli - The Coder\obj\Debug\Roli - The Coder.pdb

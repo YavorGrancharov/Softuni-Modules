@@ -1,0 +1,6 @@
+c:\users\lalka\Documents\introC#\exam03\exam03\bin\Debug\exam03.exe.config
+c:\users\lalka\Documents\introC#\exam03\exam03\bin\Debug\exam03.exe
+c:\users\lalka\Documents\introC#\exam03\exam03\bin\Debug\exam03.pdb
+c:\users\lalka\Documents\introC#\exam03\exam03\obj\Debug\exam03.csprojResolveAssemblyReference.cache
+c:\users\lalka\Documents\introC#\exam03\exam03\obj\Debug\exam03.exe
+c:\users\lalka\Documents\introC#\exam03\exam03\obj\Debug\exam03.pdb

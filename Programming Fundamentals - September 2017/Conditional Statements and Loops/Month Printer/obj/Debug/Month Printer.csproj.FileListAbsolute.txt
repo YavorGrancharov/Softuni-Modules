@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\bin\Debug\Month Printer.exe.config
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\bin\Debug\Month Printer.exe
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\bin\Debug\Month Printer.pdb
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\obj\Debug\Month Printer.exe
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\obj\Debug\Month Printer.pdb
+C:\Users\Lalka\Documents\introC#\Month Printer\Month Printer\obj\Debug\Month Printer.csprojResolveAssemblyReference.cache

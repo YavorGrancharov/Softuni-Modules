@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.exe.config
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.exe
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.pdb
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.exe
+C:\Users\Lalka\Documents\introC#\Equal Sum After Extraction\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.pdb

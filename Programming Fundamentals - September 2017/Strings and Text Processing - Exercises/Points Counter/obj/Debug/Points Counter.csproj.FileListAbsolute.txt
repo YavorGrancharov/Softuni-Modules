@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\bin\Debug\Points Counter.exe.config
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\bin\Debug\Points Counter.exe
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\bin\Debug\Points Counter.pdb
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\obj\Debug\Points Counter.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\obj\Debug\Points Counter.exe
+C:\Users\Lalka\Documents\introC#\Points Counter\Points Counter\obj\Debug\Points Counter.pdb

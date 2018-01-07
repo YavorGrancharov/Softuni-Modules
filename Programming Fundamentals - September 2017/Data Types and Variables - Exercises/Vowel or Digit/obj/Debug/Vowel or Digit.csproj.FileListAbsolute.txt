@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.exe.config
+C:\Users\Lalka\Documents\introC#\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.exe
+C:\Users\Lalka\Documents\introC#\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.pdb
+C:\Users\Lalka\Documents\introC#\Vowel or Digit\Vowel or Digit\obj\Debug\Vowel or Digit.exe
+C:\Users\Lalka\Documents\introC#\Vowel or Digit\Vowel or Digit\obj\Debug\Vowel or Digit.pdb

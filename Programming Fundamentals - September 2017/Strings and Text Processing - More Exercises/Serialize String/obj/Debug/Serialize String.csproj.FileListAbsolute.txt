@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\bin\Debug\Serialize String.exe.config
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\bin\Debug\Serialize String.exe
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\bin\Debug\Serialize String.pdb
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\obj\Debug\Serialize String.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\obj\Debug\Serialize String.exe
+C:\Users\Lalka\Documents\introC#\Serialize String\Serialize String\obj\Debug\Serialize String.pdb

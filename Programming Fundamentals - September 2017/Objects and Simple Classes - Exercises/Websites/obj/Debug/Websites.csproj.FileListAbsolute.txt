@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Websites\Websites\bin\Debug\Websites.exe.config
+C:\Users\Lalka\Documents\introC#\Websites\Websites\bin\Debug\Websites.exe
+C:\Users\Lalka\Documents\introC#\Websites\Websites\bin\Debug\Websites.pdb
+C:\Users\Lalka\Documents\introC#\Websites\Websites\obj\Debug\Websites.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Websites\Websites\obj\Debug\Websites.exe
+C:\Users\Lalka\Documents\introC#\Websites\Websites\obj\Debug\Websites.pdb

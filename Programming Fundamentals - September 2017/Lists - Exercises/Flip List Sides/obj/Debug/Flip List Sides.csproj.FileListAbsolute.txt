@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\bin\Debug\Flip List Sides.exe.config
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\bin\Debug\Flip List Sides.exe
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\bin\Debug\Flip List Sides.pdb
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\obj\Debug\Flip List Sides.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\obj\Debug\Flip List Sides.exe
+C:\Users\Lalka\Documents\introC#\Flip List Sides\Flip List Sides\obj\Debug\Flip List Sides.pdb

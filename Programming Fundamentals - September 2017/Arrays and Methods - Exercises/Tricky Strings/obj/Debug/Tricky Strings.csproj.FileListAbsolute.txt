@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\bin\Debug\Tricky Strings.exe.config
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\bin\Debug\Tricky Strings.exe
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\bin\Debug\Tricky Strings.pdb
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\obj\Debug\Tricky Strings.exe
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\obj\Debug\Tricky Strings.pdb
+C:\Users\Lalka\Documents\introC#\Tricky Strings\Tricky Strings\obj\Debug\Tricky Strings.csprojResolveAssemblyReference.cache

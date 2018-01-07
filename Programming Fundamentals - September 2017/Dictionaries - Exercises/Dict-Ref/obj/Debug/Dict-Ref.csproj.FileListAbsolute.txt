@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\bin\Debug\Dict-Ref.exe.config
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\bin\Debug\Dict-Ref.exe
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\bin\Debug\Dict-Ref.pdb
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\obj\Debug\Dict-Ref.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\obj\Debug\Dict-Ref.exe
+C:\Users\Lalka\Documents\introC#\Dict-Ref\Dict-Ref\obj\Debug\Dict-Ref.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\bin\Debug\Trainlands.exe.config
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\bin\Debug\Trainlands.exe
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\bin\Debug\Trainlands.pdb
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\obj\Debug\Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\obj\Debug\Trainlands.exe
+C:\Users\Lalka\Documents\introC#\Trainlands\Trainlands\obj\Debug\Trainlands.pdb

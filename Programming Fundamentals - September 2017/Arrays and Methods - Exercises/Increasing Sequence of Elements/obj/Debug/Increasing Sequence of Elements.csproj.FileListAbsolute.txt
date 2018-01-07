@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.exe.config
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.exe
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\bin\Debug\Increasing Sequence of Elements.pdb
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\obj\Debug\Increasing Sequence of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\obj\Debug\Increasing Sequence of Elements.exe
+C:\Users\Lalka\Documents\introC#\Increasing Sequence of Elements\Increasing Sequence of Elements\obj\Debug\Increasing Sequence of Elements.pdb

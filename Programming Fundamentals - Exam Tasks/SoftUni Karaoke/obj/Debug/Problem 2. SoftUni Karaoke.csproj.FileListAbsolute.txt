@@ -1,0 +1,9 @@
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\obj\Debug\Problem 2. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+c:\users\lalka\documents\visual studio 2015\Projects\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\Lalka\Documents\introC#\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+C:\Users\Lalka\Documents\introC#\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\Lalka\Documents\introC#\Problem 2. SoftUni Karaoke\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

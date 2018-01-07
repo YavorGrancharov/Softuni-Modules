@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe.config
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.pdb
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.exe
+C:\Users\Lalka\Documents\introC#\Back in 30 Minutes\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.pdb

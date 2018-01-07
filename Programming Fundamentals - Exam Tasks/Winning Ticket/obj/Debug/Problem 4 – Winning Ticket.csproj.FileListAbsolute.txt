@@ -1,0 +1,6 @@
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe.config
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.pdb
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csprojResolveAssemblyReference.cache
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.exe
+c:\users\lalka\Documents\introC#\Problem 4 – Winning Ticket\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.pdb

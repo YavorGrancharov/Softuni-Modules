@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\obj\Debug\Binary Search.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\Lalka\Documents\introC#\Binary Search\Binary Search\obj\Debug\Binary Search.pdb

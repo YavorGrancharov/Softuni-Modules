@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+C:\Users\Lalka\Documents\introC#\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

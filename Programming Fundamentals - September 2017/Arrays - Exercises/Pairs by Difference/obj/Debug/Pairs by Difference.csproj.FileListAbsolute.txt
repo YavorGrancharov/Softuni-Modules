@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.exe.config
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.exe
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.pdb
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\obj\Debug\Pairs by Difference.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\obj\Debug\Pairs by Difference.exe
+C:\Users\Lalka\Documents\introC#\Pairs by Difference\Pairs by Difference\obj\Debug\Pairs by Difference.pdb

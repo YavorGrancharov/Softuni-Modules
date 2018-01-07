@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Lalka\Documents\introC#\Variable in Hexadecimal Format\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

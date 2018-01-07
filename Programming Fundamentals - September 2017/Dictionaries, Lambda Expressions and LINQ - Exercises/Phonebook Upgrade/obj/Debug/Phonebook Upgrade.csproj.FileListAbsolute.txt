@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe.config
+C:\Users\Lalka\Documents\introC#\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe
+C:\Users\Lalka\Documents\introC#\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.pdb
+C:\Users\Lalka\Documents\introC#\Phonebook Upgrade\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.exe
+C:\Users\Lalka\Documents\introC#\Phonebook Upgrade\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.pdb

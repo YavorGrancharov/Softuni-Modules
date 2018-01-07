@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe.config
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\bin\Debug\Training Hall Equipment.pdb
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\obj\Debug\Training Hall Equipment.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\obj\Debug\Training Hall Equipment.exe
+C:\Users\Lalka\Documents\introC#\Training Hall Equipment\Training Hall Equipment\obj\Debug\Training Hall Equipment.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\bin\Debug\Character Stats.exe.config
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\bin\Debug\Character Stats.exe
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\bin\Debug\Character Stats.pdb
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\obj\Debug\Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\obj\Debug\Character Stats.exe
+C:\Users\Lalka\Documents\introC#\Character Stats\Character Stats\obj\Debug\Character Stats.pdb

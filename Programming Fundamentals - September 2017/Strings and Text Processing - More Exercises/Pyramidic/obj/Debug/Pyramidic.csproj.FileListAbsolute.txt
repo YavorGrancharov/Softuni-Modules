@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\bin\Debug\Pyramidic.exe.config
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\bin\Debug\Pyramidic.exe
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\bin\Debug\Pyramidic.pdb
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\obj\Debug\Pyramidic.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\obj\Debug\Pyramidic.exe
+C:\Users\Lalka\Documents\introC#\Pyramidic\Pyramidic\obj\Debug\Pyramidic.pdb

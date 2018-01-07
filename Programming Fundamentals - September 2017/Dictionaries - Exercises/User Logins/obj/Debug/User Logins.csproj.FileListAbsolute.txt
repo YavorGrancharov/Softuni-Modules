@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\bin\Debug\User Logins.exe.config
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\bin\Debug\User Logins.exe
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\bin\Debug\User Logins.pdb
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\obj\Debug\User Logins.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\obj\Debug\User Logins.exe
+C:\Users\Lalka\Documents\introC#\User Logins\User Logins\obj\Debug\User Logins.pdb
