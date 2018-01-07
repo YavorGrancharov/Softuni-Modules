@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\bin\Debug\Match Full Name.exe.config
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\bin\Debug\Match Full Name.exe
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\bin\Debug\Match Full Name.pdb
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\obj\Debug\Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\obj\Debug\Match Full Name.exe
+C:\Users\Lalka\Documents\introC#\Match Full Name\Match Full Name\obj\Debug\Match Full Name.pdb

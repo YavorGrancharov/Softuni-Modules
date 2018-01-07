@@ -1,0 +1,16 @@
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\AverageGrades.exe
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\AverageGrades.pdb
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\mscorlib.dll
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\normidna.nlp
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\normnfc.nlp
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\normnfd.nlp
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\normnfkc.nlp
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\bin\Debug\normnfkd.nlp
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\obj\Debug\AverageGrades.exe
+C:\Users\Lalka\Documents\introC#\CypherRoulette\Average Grades\Average Grades\obj\Debug\AverageGrades.pdb
+C:\Users\Lalka\Documents\introC#\Average Grades\Average Grades\bin\Debug\AverageGrades.exe
+C:\Users\Lalka\Documents\introC#\Average Grades\Average Grades\bin\Debug\AverageGrades.pdb
+C:\Users\Lalka\Documents\introC#\Average Grades\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Average Grades\Average Grades\obj\Debug\AverageGrades.exe
+C:\Users\Lalka\Documents\introC#\Average Grades\Average Grades\obj\Debug\AverageGrades.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\bin\Debug\Cypher Roulette.exe.config
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\bin\Debug\Cypher Roulette.exe
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\bin\Debug\Cypher Roulette.pdb
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\obj\Debug\Cypher Roulette.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\obj\Debug\Cypher Roulette.exe
+C:\Users\Lalka\Documents\introC#\Cypher Roulette\Cypher Roulette\obj\Debug\Cypher Roulette.pdb

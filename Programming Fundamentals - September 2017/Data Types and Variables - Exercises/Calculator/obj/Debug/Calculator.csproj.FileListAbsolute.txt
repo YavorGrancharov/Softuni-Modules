@@ -1,0 +1,5 @@
+C:\Users\Lalka\Documents\introC#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Lalka\Documents\introC#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lalka\Documents\introC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lalka\Documents\introC#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Lalka\Documents\introC#\Calculator\Calculator\obj\Debug\Calculator.pdb

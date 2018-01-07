@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\bin\Debug\Extract Emails.exe.config
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\bin\Debug\Extract Emails.exe
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\bin\Debug\Extract Emails.pdb
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\obj\Debug\Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\obj\Debug\Extract Emails.exe
+C:\Users\Lalka\Documents\introC#\Extract Emails\Extract Emails\obj\Debug\Extract Emails.pdb

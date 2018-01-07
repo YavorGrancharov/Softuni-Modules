@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\bin\Debug\Test URL 2.exe.config
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\bin\Debug\Test URL 2.exe
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\bin\Debug\Test URL 2.pdb
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\obj\Debug\Test URL 2.exe
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\obj\Debug\Test URL 2.pdb
+C:\Users\Lalka\Documents\introC#\Test URL 2\Test URL 2\obj\Debug\Test URL 2.csprojResolveAssemblyReference.cache

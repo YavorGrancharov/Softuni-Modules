@@ -1,0 +1,6 @@
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\bin\Debug\Data Overflow.exe.config
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\bin\Debug\Data Overflow.exe
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\bin\Debug\Data Overflow.pdb
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\obj\Debug\Data Overflow.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\obj\Debug\Data Overflow.exe
+C:\Users\Lalka\Documents\introC#\Data Overflow\Data Overflow\obj\Debug\Data Overflow.pdb
