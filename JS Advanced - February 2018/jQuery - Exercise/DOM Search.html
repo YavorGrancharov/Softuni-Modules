@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Search</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+    <style>
+        .add-controls, .search-controls {
+            width: 20em;
+            height: 2em;
+        }
+
+        input {
+            position: absolute;
+            left: 6em;
+        }
+
+        .button {
+            background-color: darkgrey;
+            color: white;
+            font-weight: bold;
+            position: absolute;
+            left: 17em;
+            border: 1px solid black;
+            padding: 0 5px 0 5px;
+        }
+
+        .result-controls .button {
+            position: relative;
+            left: 0;
+            font-size: 50%;
+            margin-right: 1em;
+            padding: 0;
+            bottom: 3px;
+        }
+
+        li {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+<div id="content"></div>
+<script>
+    domSearch("#content", false);
+
+    function domSearch(selector, isCaseSensitive) {
+        $(selector).addClass('items-control')
+            .append($('<div>').addClass('add-controls')
+                .append($('<label>').text('Enter text: ')
+                    .append($('<input>')))
+                .append($('<a>').addClass('button').attr('style', 'display: inline block;').text('Add')))
+            .append($('<div>').addClass('search-controls')
+                .append($('<label>').text('Search: ')
+                    .append($('<input>')))
+                .append($('<div>').addClass('result-controls')
+                    .append($('<ul>').addClass('items-list'))));
+
+        let ul = $('.items-list');
+        let addBtn = $('.add-controls a');
+        let text = $('.add-controls input');
+        let search = $('.search-controls input');
+
+        addBtn.on('click', addItem);
+        search.on('input', searchItem);
+
+        function addItem(event) {
+            let li = $('<li>').addClass('list-item');
+            let anchor = $('<a>').addClass('button').text('X').on('click', deleteItem);
+            let itemValue = $(text).val();
+            let item = $('<strong>').text(itemValue);
+
+            anchor.appendTo(li);
+            item.appendTo(li);
+            li.appendTo(ul);
+
+            $('.add-controls input').val('')
+        }
+
+        function deleteItem(event) {
+            $('.list-item a').on('click', function (event) {
+                let item = event.target;
+                item.parentNode.parentNode.removeChild(item.parentNode);
+            });
+        }
+
+        function searchItem(event) {
+            $(search).keyup(function () {
+                let searchText = $(this).val();
+                $('ul > li').each(function () {
+                    if (!isCaseSensitive) {
+                        let currentLiText = $(this).text(),
+                            showCurrentLi = currentLiText.toLowerCase().indexOf(searchText) !== -1;
+                        $(this).toggle(showCurrentLi);
+                    }
+                    let currentLiText = $(this).text(),
+                        showCurrentLi = currentLiText.indexOf(searchText) !== -1;
+                    $(this).toggle(showCurrentLi);
+                });
+            });
+        }
+    }
+</script>
+</body>
+</html>
