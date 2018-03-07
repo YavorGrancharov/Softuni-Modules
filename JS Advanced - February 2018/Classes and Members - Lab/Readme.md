@@ -1,4 +1,4 @@
-# 1.Exercises: Classes and Their Members
+# Exercises: Classes and Their Members
 
 Problems for exercises and homework for the [&quot;JavaScript Advanced&quot; course @ SoftUni](https://softuni.bg/courses/javascript-advanced). Submit your solutions in the SoftUni judge system at [https://judge.softuni.bg/Contests/336/](https://judge.softuni.bg/Contests/336/).
 
