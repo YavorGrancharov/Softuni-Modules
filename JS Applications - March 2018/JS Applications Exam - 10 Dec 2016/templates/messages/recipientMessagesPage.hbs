@@ -1,0 +1,35 @@
+{{> header}}
+
+<main>
+    <section id="viewMyMessages">
+        <h1>My Messages</h1>
+        <div class="messages" id="myMessages">
+            <table>
+                {{#if empty}}
+                    <thead>
+                    <tr>
+                        <th>From</th>
+                        <th>Message</th>
+                        <th>Date Received</th>
+                    </tr>
+                    </thead>
+                {{else}}
+                    <thead>
+                    <tr>
+                        <th>From</th>
+                        <th>Message</th>
+                        <th>Date Received</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {{#each messages}}
+                        {{> recipientMessage}}
+                    {{/each}}
+                    </tbody>
+                {{/if}}
+            </table>
+        </div>
+    </section>
+</main>
+
+{{> footer}}

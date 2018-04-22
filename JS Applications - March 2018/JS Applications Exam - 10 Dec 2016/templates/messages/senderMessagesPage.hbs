@@ -1,0 +1,37 @@
+{{> header}}
+
+<main>
+    <section id="viewArchiveSent">
+        <h1>Archive (Sent Messages)</h1>
+        <div class="messages" id="sentMessages">
+            <table>
+                {{#if empty}}
+                    <thead>
+                    <tr>
+                        <th>To</th>
+                        <th>Message</th>
+                        <th>Date Sent</th>
+                        <th>Actions</th>
+                    </tr>
+                    </thead>
+                {{else}}
+                    <thead>
+                    <tr>
+                        <th>To</th>
+                        <th>Message</th>
+                        <th>Date Sent</th>
+                        <th>Actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {{#each messages}}
+                        {{> senderMessage}}
+                    {{/each}}
+                    </tbody>
+                {{/if}}
+            </table>
+        </div>
+    </section>
+</main>
+
+{{> footer}}
