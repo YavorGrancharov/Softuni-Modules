@@ -1,0 +1,38 @@
+{{> navigation}}
+
+<section id="viewProfile">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">{{username}}</h2>
+
+            {{#if following}}
+                <a id="btnUnfollow" class="chirp-author" href="#/unfollow/{{username}}">Unfollow</a>
+            {{else}}
+                <a id="btnFollow" class="chirp-author" href="#/follow/{{username}}">Follow</a>
+            {{/if}}
+
+            <div id="userProfileStats" class="user-details">
+                <span>{{chirps.length}} chirps</span> | <span>{{following.length}} following</span> |
+                <span>{{followers.length}} followers</span>
+            </div>
+        </div>
+        <div id="profileChirps" class="chirps"><h2 class="titlebar">Chirps</h2>
+            {{#if chirps.length}}
+                {{#each chirps}}
+                    <article class="chirp">
+                        <div class="titlebar">
+                            <a href="#/viewProfile/{{author}}" class="chirp-author">{{author}}</a>
+                            <span class="chirp-time">{{calcTime _kmd.ect}}</span>
+                        </div>
+                        <p>{{text}}</p>
+                    </article>
+                {{/each}}
+            {{else}}
+                <p>No chirps in database.</p>
+            {{/if}}
+        </div>
+    </div>
+</section>
+
+{{> footer}}

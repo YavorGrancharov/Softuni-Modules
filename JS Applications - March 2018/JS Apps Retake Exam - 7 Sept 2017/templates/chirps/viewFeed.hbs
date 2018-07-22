@@ -1,0 +1,39 @@
+{{> navigation}}
+
+<section id="viewFeed">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">{{username}}</h2>
+
+            <form action="#/createChirp" method="post" id="formSubmitChirp" class="chirp-form">
+                <textarea name="text" class="chirp-input"></textarea>
+                <input class="chirp-submit" id="btnSubmitChirp" value="Chirp" type="submit">
+            </form>
+
+            <div id="userStats" class="user-details">
+                <span>{{chirps.length}} chirps</span> | <span>{{following.length}} following</span> |
+                <span>{{followers.length}}
+                    followers</span>
+            </div>
+        </div>
+        <div id="chirps" class="chirps"><h2 class="titlebar">Chirps</h2>
+            {{#if chirps.length}}
+                {{#each chirps}}
+                    <article class="chirp">
+                        <div class="titlebar">
+                            <a href="#/viewProfile/{{author}}" class="chirp-author">{{author}}</a>
+                            <span class="chirp-time">{{calcTime _kmd.ect}}</span>
+                        </div>
+                        <p>{{text}}</p>
+                    </article>
+                {{/each}}
+            {{else}}
+                <p>No chirps in database.</p>
+            {{/if}}
+            <!-- TODO Load more articles -->
+        </div>
+    </div>
+</section>
+
+{{> footer}}

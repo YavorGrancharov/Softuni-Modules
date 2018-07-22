@@ -1,0 +1,31 @@
+{{> header}}
+<br>
+<section id="viewLogin">
+    <div class="content">
+        <form action="#/login" method="post" id="formLogin" class="form">
+            <label>Username</label>
+            <input name="username-login" type="text">
+            <label>Password</label>
+            <input name="password-login" type="password">
+            <input id="btnLogin" value="Sign In" type="submit">
+            <!--<a href="#">Register</a>-->
+        </form>
+    </div>
+</section>
+<br><br>
+<section id="viewRegister">
+    <div class="content">
+        <form action="#/register" method="post" class="form" id="formRegister">
+            <label>Username</label>
+            <input name="username-register" type="text">
+            <label>Password</label>
+            <input name="password-register" type="password">
+            <label>Repeat Password</label>
+            <input name="password-register-check" type="password">
+            <input id="btnRegister" value="Register" type="submit">
+            <!--<a href="#">Log in</a>-->
+        </form>
+    </div>
+</section>
+<br>
+{{> footer}}
