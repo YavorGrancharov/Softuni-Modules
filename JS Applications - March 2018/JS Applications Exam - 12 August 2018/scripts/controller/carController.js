@@ -12,16 +12,14 @@ let carController = (() => {
             ctx.cars = cars;
             ctx.isAuth = true;
 
-            let author;
             cars.forEach(function (i, e) {
                 if (i.seller === sessionStorage.getItem('username')) {
-                    i.isAuthor = true
+                    i.isAuthor = true;
                 }else {
-                    i.isAuthor = false
+                    i.isAuthor = false;
                 }
-            })
+            });
 
-            ctx.isAuthor = author
             ctx.loadPartials({
                 header: './templates/common/header.hbs',
                 footer: './templates/common/footer.hbs',
@@ -65,7 +63,6 @@ let carController = (() => {
 
     function createCarPost(ctx) {
         let username = sessionStorage.getItem('username');
-        let userId = sessionStorage.getItem('userId');
 
         let title = document.getElementsByName('title')[0].value;
         let description = document.getElementsByName('description')[0].value;
@@ -132,6 +129,7 @@ let carController = (() => {
         carService.carDetails(carId).then((car) => {
             ctx.car = car;
             ctx.isAuth = true;
+            ctx.isAuthor = car.seller === sessionStorage.getItem('username');
             ctx.loadPartials({
                 header: './templates/common/header.hbs',
                 footer: './templates/common/footer.hbs',
