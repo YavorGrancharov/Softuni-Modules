@@ -6,18 +6,13 @@ let carController = (() => {
         }
 
         ctx.username = sessionStorage.getItem('username');
-        let userId = sessionStorage.getItem('userId');
 
         carService.listAllCars().then((cars) => {
             ctx.cars = cars;
             ctx.isAuth = true;
 
             cars.forEach(function (i, e) {
-                if (i.seller === sessionStorage.getItem('username')) {
-                    i.isAuthor = true;
-                }else {
-                    i.isAuthor = false;
-                }
+                i.isAuthor = i.seller === sessionStorage.getItem('username');
             });
 
             ctx.loadPartials({
