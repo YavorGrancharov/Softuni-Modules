@@ -76,7 +76,7 @@ let carController = (() => {
             notifyService.showError('Description must be between 30 and 450 characters!');
             return;
         }
-        if ((brand.length || fuel.length || model.length) > 11) {
+        if (brand.length > 11 || fuel.length > 11 || model.length > 11) {
             notifyService.showError('You must not exceed 11 characters!');
             return;
         }
@@ -176,7 +176,7 @@ let carController = (() => {
             notifyService.showError('Description must be between 30 and 450 characters!');
             return;
         }
-        if ((brand.length || fuel.length || model.length) > 11) {
+        if (brand.length > 11 || fuel.length > 11 || model.length > 11) {
             notifyService.showError('You must not exceed 11 characters!');
             return;
         }
