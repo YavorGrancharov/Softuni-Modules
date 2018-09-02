@@ -1,4 +1,6 @@
-public class MyClass {
+import java.util.Scanner;
+
+public class ExamTask4 {
     public static void main(String args[]) {
         Scanner console = new Scanner(System.in);
         
