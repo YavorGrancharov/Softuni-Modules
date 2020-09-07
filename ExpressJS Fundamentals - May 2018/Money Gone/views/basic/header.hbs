@@ -1,0 +1,41 @@
+{{#if currentUser}}
+
+<form hidden id="logout-form" action="/auth/logout" method="POST"></form>
+
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a id="home" class="left-floated" href="/">MoneyGone</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a class="right-floated" href="/account/info">{{username}}</a>
+            </li>
+
+            <li>
+                <a class="right-floated" href="javascript:document.getElementById('logout-form').submit()">Logout</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+{{else}}
+
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a id="home" class="left-floated" href="/">MoneyGone</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a class="right-floated" href="/auth/login">Login</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+{{/if}}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/site.css">
+    <title>Expenses Tracker</title>
+</head>
+
+<body>
+
+    {{#if Error}}
+
+    <h3>{{Error}}</h3>
+
+    {{/if}}
+
+    {{#if Success}}
+
+    <h3>{{Success}}</h3>
+
+    {{/if}}
+
+    {{{body}}}
+
+</body>
+
+</html>

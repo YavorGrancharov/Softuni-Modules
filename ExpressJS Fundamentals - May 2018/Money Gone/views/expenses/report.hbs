@@ -1,0 +1,35 @@
+{{> header}}
+
+<main>
+
+    <section class="expense-report">
+
+        <form hidden id="delete-expense-form" action="/expense/delete/{{report._id}}" method="POST"></form>
+
+        <h1>ID: {{report._id}}</h1>
+        <div class="report-date">
+            <img src="/images/date.png" alt="">
+            <p>{{formatDate report.date}}</p>
+        </div>
+
+        <div class="report-category">
+            <img src="/images/amount.png" alt="">
+            <p>{{report.total}} - лв {{amount}}</p>
+        </div>
+
+        <div class="report-merchant">
+            <p>{{report.merchandise}}</p>
+        </div>
+
+        <div class="report-description">
+            <img src="/images/hastag.png" alt="">
+            <p>{{report.description}}</p>
+        </div>
+
+        <div class="report-action">
+            <a href="javascript:document.getElementById('delete-expense-form').submit()">Stop tracking</a>
+        </div>
+    </section>
+</main>
+
+{{> footer}}
