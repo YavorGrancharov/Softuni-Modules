@@ -1,0 +1,15 @@
+{{> header}}
+
+<main>
+    {{#if currentUser}}
+    {{#if error}}
+    {{> error}}
+    {{/if}}
+    {{> expenses}}
+    {{else}}
+    <p class="guest-message">MoneyGone? The best expense tracker tool of all time!<br>Аre you new here? <a
+            href="/auth/register">Register</a> yourself!</p>
+    {{/if}}
+</main>
+
+{{> footer}}

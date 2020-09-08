@@ -1,0 +1,21 @@
+{{> header}}
+
+<main>
+    {{#if error}}
+    {{> error}}
+    {{/if}}
+    <form action="/auth/login" method="POST">
+        <h1>Login</h1>
+
+        <p>Personal info</p>
+        <label for="username">Username</label>
+        <input id="username" name="username" value="{{body.username}}" type="text" placeholder="JustMyself123...">
+
+        <label for="password">Password</label>
+        <input id="password" name="password" value="{{body.password}}" type="password" placeholder="********">
+
+        <button type="submit">Login</button>
+    </form>
+</main>
+
+{{> footer}}
