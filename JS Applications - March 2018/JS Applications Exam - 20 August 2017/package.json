@@ -2,7 +2,7 @@
   "name": "JS Applications Exam - 20 August 2017",
   "version": "0.0.1",
   "dependencies": {
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "hbs": "^4.0.1",
     "jquery": "^3.3.1",
     "jsdom": "^11.7.0",
