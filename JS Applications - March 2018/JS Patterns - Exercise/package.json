@@ -2,7 +2,7 @@
   "name": "JS Patterns - Exercise",
   "version": "0.0.1",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "handlebars": "^4.0.11",
     "hbs": "^4.0.1",
     "jquery": "^3.3.1",
